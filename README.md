@@ -1,2 +1,2 @@
 # hello-world
-First repository for training
+Why do I need to learn GitHub
